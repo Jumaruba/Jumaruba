@@ -10,6 +10,7 @@ I'm Juliane Marubayashi and I'm currently studying Informatic Engineering at FEU
 - Reading  
 - Play Games 
 - Programming [of course] 
+- Artificial Intelligence
 ### What I'm trying
 - Creating bot for discord.  
 - ReactJS programs  
