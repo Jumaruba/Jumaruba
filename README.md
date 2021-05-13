@@ -11,11 +11,11 @@ I'm Juliane Marubayashi and I'm currently studying Informatic Engineering at FEU
 - Play Games 
 - Programming [of course] 
 - Artificial Intelligence
-### What I'm trying
-- Creating bot for discord.  
-- ReactJS programs  
+- Javascript 
+- Nodejs
 
-
+### What I'm trying  
+- Programming with etherium 
 
 
 __Contact__: 
