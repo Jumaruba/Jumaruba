@@ -5,17 +5,17 @@ Hello! It's Juliane ;)
 I'm Juliane Marubayashi and I'm currently studying Informatic Engineering at FEUP in Portugal.  
 
 ### Things that I like :space_invader:
-- Sports  
+- Badminton
 - LoFi Music for programming   
 - Reading  
 - Play Games 
 - Programming [of course] 
-- Artificial Intelligence
-- Javascript 
-- Nodejs
+- Distributed Systems
+- Programming languages
+- Rust lover
 
 ### What I'm trying  
-- Programming with etherium 
+- Building a ditributed system with rust. 
 
 
 __Contact__: 
