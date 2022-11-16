@@ -23,11 +23,6 @@ I'm Juliane Marubayashi and I'm currently studying Informatic Engineering at FEU
 - Play Games 
 - Programming [of course] 
 - Distributed Systems
-- Rust lover
-
-### What I'm trying
-- Building a ditributed system with rust. 
-- Building a game with rust 
 
 ### Stats 
  
